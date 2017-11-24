@@ -1,0 +1,25 @@
+{
+  "name": "oxford_3000",
+  "version": "1.0.0",
+  "description": "The Oxford 3000 word list (there seem to actually be 3847,) as a JSON",
+  "main": "oxford_3000.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/oxford_3000.git"
+  },
+  "keywords": [
+    "oxford",
+    "3000",
+    "word",
+    "list"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/oxford_3000/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/oxford_3000#readme"
+}
