@@ -1,6 +1,6 @@
 {
   "name": "oxford_3000",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Oxford 3000 word list (there seem to actually be 3847,) as a JSON",
   "main": "oxford_3000.json",
   "scripts": {
